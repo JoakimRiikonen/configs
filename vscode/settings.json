@@ -1,7 +1,4 @@
 {
-    "editor.snippetSuggestions": "top",
-    "editor.tabSize": 2,
-    "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+    "csharp.semanticHighlighting.enabled": true,
+    "csharp.suppressHiddenDiagnostics": false
 }
