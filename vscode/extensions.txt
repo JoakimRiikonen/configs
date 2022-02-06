@@ -1,0 +1,9 @@
+Angular.ng-template
+dbaeumer.vscode-eslint
+dsznajder.es7-react-js-snippets
+formulahendry.auto-rename-tag
+justusadam.language-haskell
+ms-dotnettools.csharp
+shd101wyy.markdown-preview-enhanced
+streetsidesoftware.code-spell-checker
+vscodevim.vim
